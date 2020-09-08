@@ -6,7 +6,6 @@
 [![](https://raw.githubusercontent.com/mugi111/mugi111/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/mugi111/github-profile-summary-cards)  
 [![](https://raw.githubusercontent.com/mugi111/mugi111/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/mugi111/mugi111/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/mugi111/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mugi111/mugi111/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/mugi111/github-profile-summary-cards)  
 
 ## Certificate
 [![Az-900](https://user-images.githubusercontent.com/19409282/91316992-73db2680-e7f4-11ea-89e9-a4e03c641d04.png)](https://www.youracclaim.com/badges/8809fec5-27ba-47e4-8339-4ba2a8e59a19/public_url)
